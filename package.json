@@ -1,0 +1,19 @@
+{
+  "name": "@types/multihashing-async",
+  "version": "47.0.1",
+  "description": "TypeScript definitions for multihashing-async",
+  "license": "MIT",
+  "contributors": [],
+  "main": "",
+  "types": "index.d.ts",
+  "scripts": {},
+  "author": "@kodex/wizardsorb",
+  "homepage": "https://kodexdata.systems",
+  "dependencies": {
+      "@types/node": "*"
+  },
+  "typeScriptVersion": "4.0.3",
+  "devDependencies": {
+    "multihashing-async": "^2.0.1"
+  }
+}
