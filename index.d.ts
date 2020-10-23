@@ -1,5 +1,5 @@
 declare module "multihashing-async" {
-  // export = Multihashing;
+  export = Multihashing;
 
   export type MultihashingAlgos =
     | "identity"
