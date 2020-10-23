@@ -10,10 +10,11 @@
   "author": "@kodex/wizardsorb",
   "homepage": "https://kodexdata.systems",
   "dependencies": {
-      "@types/node": "*"
+    "@types/node": "*"
   },
   "typeScriptVersion": "4.0.3",
   "devDependencies": {
+    "@types/crypto-js": "^4.0.1",
     "multihashing-async": "^2.0.1"
   }
 }
